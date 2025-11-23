@@ -1,4 +1,4 @@
-import ColorPicker from '';
+import ColorPicker from './MichaelWGre.github.io/ColorPicker.jsx';
 
 function App() {
    return(
